@@ -1,0 +1,32 @@
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf> <http://xmlns.com/foaf/0.1/maker> <file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf> <http://webns.net/mvcb/generatorAgent> <http://www.ldodds.com/foaf/foaf-a-matic> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf> <http://webns.net/mvcb/errorReportsTo> <mailto:leigh@ldodds.com> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/name> "Mehavardhini Vijaya Kumar" .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/title> "Ms" .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/givenname> "Mehavardhini" .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/family_name> "Vijaya Kumar" .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/mbox> "vmehavardhini@gmail.com" .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/homepage> <file:///C:/Users/Mehavardhini/workspace/Lab1/www.mehavardhini.com> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/depiction> <file:///C:/Users/Mehavardhini/workspace/Lab1/meha.jpg> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/phone> <tel:4696057882> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://www.workplace.com> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/workInfoHomepage> <http://www.mywork.com> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/schoolHomepage> <http://www.utdallas.edu> .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/knows> _:BX2Dd42332eX3A14fb90d28c7X3AX2D7fff .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/knows> _:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffe .
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> <http://xmlns.com/foaf/0.1/knows> _:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffd .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7fff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7fff <http://xmlns.com/foaf/0.1/name> "Karunya Srinivasan" .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7fff <http://xmlns.com/foaf/0.1/mbox> "srinivasankarunya@yahoo.in" .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7fff <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://someurl.com> .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffe <http://xmlns.com/foaf/0.1/name> "Pratheema Mohandoss" .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffe <http://xmlns.com/foaf/0.1/mbox> "pxm141230@utdallas.edu" .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffe <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://anotherurl.com> .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffd <http://xmlns.com/foaf/0.1/name> "Sharavana Pandian" .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffd <http://xmlns.com/foaf/0.1/mbox> "shravanaac@gmail.com" .
+_:BX2Dd42332eX3A14fb90d28c7X3AX2D7ffd <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://someotherurl.com> .

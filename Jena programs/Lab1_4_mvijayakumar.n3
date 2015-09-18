@@ -1,0 +1,62 @@
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf>
+        a       <http://xmlns.com/foaf/0.1/PersonalProfileDocument> ;
+        <http://webns.net/mvcb/errorReportsTo>
+                <mailto:leigh@ldodds.com> ;
+        <http://webns.net/mvcb/generatorAgent>
+                <http://www.ldodds.com/foaf/foaf-a-matic> ;
+        <http://xmlns.com/foaf/0.1/maker>
+                <file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> ;
+        <http://xmlns.com/foaf/0.1/primaryTopic>
+                <file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me> .
+
+<file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me>
+        a       <http://xmlns.com/foaf/0.1/Person> ;
+        <http://xmlns.com/foaf/0.1/depiction>
+                <file:///C:/Users/Mehavardhini/workspace/Lab1/meha.jpg> ;
+        <http://xmlns.com/foaf/0.1/family_name>
+                "Vijaya Kumar" ;
+        <http://xmlns.com/foaf/0.1/givenname>
+                "Mehavardhini" ;
+        <http://xmlns.com/foaf/0.1/homepage>
+                <file:///C:/Users/Mehavardhini/workspace/Lab1/www.mehavardhini.com> ;
+        <http://xmlns.com/foaf/0.1/knows>
+                [ a       <http://xmlns.com/foaf/0.1/Person> ;
+                  <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                          <http://someurl.com> ;
+                  <http://xmlns.com/foaf/0.1/mbox>
+                          "srinivasankarunya@yahoo.in" ;
+                  <http://xmlns.com/foaf/0.1/name>
+                          "Karunya Srinivasan"
+                ] ;
+        <http://xmlns.com/foaf/0.1/knows>
+                [ a       <http://xmlns.com/foaf/0.1/Person> ;
+                  <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                          <http://anotherurl.com> ;
+                  <http://xmlns.com/foaf/0.1/mbox>
+                          "pxm141230@utdallas.edu" ;
+                  <http://xmlns.com/foaf/0.1/name>
+                          "Pratheema Mohandoss"
+                ] ;
+        <http://xmlns.com/foaf/0.1/knows>
+                [ a       <http://xmlns.com/foaf/0.1/Person> ;
+                  <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                          <http://someotherurl.com> ;
+                  <http://xmlns.com/foaf/0.1/mbox>
+                          "shravanaac@gmail.com" ;
+                  <http://xmlns.com/foaf/0.1/name>
+                          "Sharavana Pandian"
+                ] ;
+        <http://xmlns.com/foaf/0.1/mbox>
+                "vmehavardhini@gmail.com" ;
+        <http://xmlns.com/foaf/0.1/name>
+                "Mehavardhini Vijaya Kumar" ;
+        <http://xmlns.com/foaf/0.1/phone>
+                <tel:4696057882> ;
+        <http://xmlns.com/foaf/0.1/schoolHomepage>
+                <http://www.utdallas.edu> ;
+        <http://xmlns.com/foaf/0.1/title>
+                "Ms" ;
+        <http://xmlns.com/foaf/0.1/workInfoHomepage>
+                <http://www.mywork.com> ;
+        <http://xmlns.com/foaf/0.1/workplaceHomepage>
+                <http://www.workplace.com> .

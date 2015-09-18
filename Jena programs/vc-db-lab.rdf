@@ -1,0 +1,16 @@
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:vcard='http://www.w3.org/2001/vcard-rdf/3.0#'
+ >
+  <rdf:Description rdf:about='http://utdallas/semclass'>
+    <vcard:FN>Kevin L.Ates</vcard:FN>
+    <vcard:ROLE>Senior Lecturer</vcard:ROLE>
+    <vcard:BDAY>JAnuary 1, 1901</vcard:BDAY>
+    <vcard:EMAIL>atescomp@utdallas.edu</vcard:EMAIL>
+    <vcard:N rdf:nodeID="A0"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <vcard:Given>Keven</vcard:Given>
+    <vcard:Family>Ates</vcard:Family>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,47 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://webns.net/mvcb/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.1="http://xmlns.com/foaf/0.1/">
+  <j.1:PersonalProfileDocument rdf:about="file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf">
+    <j.1:maker>
+      <j.1:Person rdf:about="file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me">
+        <j.1:name>Mehavardhini Vijaya Kumar</j.1:name>
+        <j.1:title>Ms</j.1:title>
+        <j.1:givenname>Mehavardhini</j.1:givenname>
+        <j.1:family_name>Vijaya Kumar</j.1:family_name>
+        <j.1:mbox>vmehavardhini@gmail.com</j.1:mbox>
+        <j.1:homepage rdf:resource="file:///C:/Users/Mehavardhini/workspace/Lab1/www.mehavardhini.com"/>
+        <j.1:depiction rdf:resource="file:///C:/Users/Mehavardhini/workspace/Lab1/meha.jpg"/>
+        <j.1:phone rdf:resource="tel:4696057882"/>
+        <j.1:workplaceHomepage rdf:resource="http://www.workplace.com"/>
+        <j.1:workInfoHomepage rdf:resource="http://www.mywork.com"/>
+        <j.1:schoolHomepage rdf:resource="http://www.utdallas.edu"/>
+        <j.1:knows>
+          <j.1:Person>
+            <j.1:name>Karunya Srinivasan</j.1:name>
+            <j.1:mbox>srinivasankarunya@yahoo.in</j.1:mbox>
+            <rdfs:seeAlso rdf:resource="http://someurl.com"/>
+          </j.1:Person>
+        </j.1:knows>
+        <j.1:knows>
+          <j.1:Person>
+            <j.1:name>Pratheema Mohandoss</j.1:name>
+            <j.1:mbox>pxm141230@utdallas.edu</j.1:mbox>
+            <rdfs:seeAlso rdf:resource="http://anotherurl.com"/>
+          </j.1:Person>
+        </j.1:knows>
+        <j.1:knows>
+          <j.1:Person>
+            <j.1:name>Sharavana Pandian</j.1:name>
+            <j.1:mbox>shravanaac@gmail.com</j.1:mbox>
+            <rdfs:seeAlso rdf:resource="http://someotherurl.com"/>
+          </j.1:Person>
+        </j.1:knows>
+      </j.1:Person>
+    </j.1:maker>
+    <j.1:primaryTopic rdf:resource="file:///C:/Users/Mehavardhini/workspace/Lab1/mehavardhini_FOAFFriends.rdf#me"/>
+    <j.0:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+    <j.0:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+  </j.1:PersonalProfileDocument>
+</rdf:RDF>
